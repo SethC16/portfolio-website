@@ -1800,7 +1800,8 @@ input, select, textarea {
 			width: 100%;
 			margin: 0 0 4em 0;
 		}
-
+		
+	
 		.image.left {
 			float: left;
 			margin: 0 2em 2em 0;
@@ -2176,7 +2177,7 @@ input, select, textarea {
 
 	#header {
 		position: relative;
-		background-image: url("../../images/header.jpg");
+		background-image: url("../../images/charleston.jpg");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
