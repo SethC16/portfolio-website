@@ -1787,15 +1787,19 @@ input, select, textarea {
 
 		.image img {
 			display: block;
-			width: 100%;
+			width: 250px;
+			height: 150px;
+		}
+		.image img:nth-child(1) {
+			padding-bottom: 5%;
 		}
 
-		.image.fit {
+		.image .fit {
 			display: block;
 			width: 100%;
 		}
 
-		.image.featured {
+		.image .featured {
 			display: block;
 			width: 100%;
 			margin: 0 0 4em 0;
